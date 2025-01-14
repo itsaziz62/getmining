@@ -35,7 +35,7 @@ pkg install python python-pip git -y
 ```
 - Download script [Manually](https://github.com/im-hanzou/getgrass/archive/refs/heads/main.zip) or use git:
 ```bash
-git clone https://github.com/im-hanzou/getgrass
+git clone https://github.com/itsaziz62/getgrass
 ```
 - Make sure you already in bot folder:
 ```bash
